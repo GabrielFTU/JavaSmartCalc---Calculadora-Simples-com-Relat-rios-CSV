@@ -1,0 +1,2 @@
+Expressão: 5 * 2 | Resultado: NaN
+Expressão: 7*2/3-4 | Resultado: -14.00
